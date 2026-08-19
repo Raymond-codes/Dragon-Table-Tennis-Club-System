@@ -17,7 +17,7 @@ A digital membership and payment system built for a table tennis club, replacing
 
 #### Sprints:
 
-* \[Sprint 0: Setup](https://github.com/Raymond-codes/Dragon-Table-Tennis-Club-System/blob/main/devlog/sprint-00-setup.md) - Repo, devlog, project board
+* [Sprint 0: Setup](https://github.com/Raymond-codes/Dragon-Table-Tennis-Club-System/blob/main/devlog/sprint-00-setup.md) - Repo, devlog, project board
 * Sprint 1: Registration - Auth, Supabase, role-based portals
 * Sprint 2: Walk-in \& Rental - Booking flows
 * Sprint 3: Payments - Billplz/ToyyibPay integration
